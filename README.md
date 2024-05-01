@@ -1,7 +1,5 @@
-# multiple-disease-prediction-streamlit-app
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+# Python Web App for using Machine Learning to detect Diabetes Heart Disease and Parkinson's
+@ http://localhost:8501/
 
-app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
-
-You may need to install additional libraries for running the jupyter notebooks.
+## Reason for building
+After BDI class teaching SQL and Python wanted to work on a ML project using Skycity 
